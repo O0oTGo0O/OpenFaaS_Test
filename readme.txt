@@ -1,0 +1,5 @@
+demo-magician-python-64-master 是在win10系统下使用python进行dobot magician开发的文件夹
+
+faac-cli 是openfaas搭建过程中原函数的代码实现
+
+streamlit 是使用streamlit工具搭建的openfaas访问UI

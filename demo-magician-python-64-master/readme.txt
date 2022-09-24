@@ -1,0 +1,3 @@
+tg_test.py 是使用python代码让dobot magician实现货物分拣的demo
+
+运行后需要手动进行停止，停止后传送带会处于工作状态，可以运行motor_stop.py 使电机停止工作
